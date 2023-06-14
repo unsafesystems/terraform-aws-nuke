@@ -1,0 +1,8 @@
+*.hcl
+*.tfstate*
+.terraform
+config.yaml
+docker.env
+
+tmp/
+nuke/nuke.yaml
