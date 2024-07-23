@@ -1,4 +1,4 @@
-FROM alpine:3.20.1
+FROM alpine:3.20.2
 
 ARG NUKE_VERSION=2.22.1
 
